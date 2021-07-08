@@ -1,9 +1,8 @@
 # Flipr-Hackathon9.0 / Mailing Service
 
-A Web-app to schedule and send Recurring, Weekly, Monthly, Yearly mails. 
+A Web-app to schedule and send Recurring, Daily, Weekly, Monthly, Yearly mails. 
 
 Live Deployed [here](https://floating-sea-65611.herokuapp.com/user/login).
-
 
 ## Built With
 * [NodeJS](https://nodejs.org/en/docs/) -  evented I/O for the backend
@@ -90,8 +89,6 @@ $ npm start
     └── show.hbs
 
 ```
-## Screen Shots
-
 ## Deployment
 
 
