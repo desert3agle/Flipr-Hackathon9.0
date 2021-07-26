@@ -1,4 +1,4 @@
-# Flipr-Hackathon9.0 / MailHub
+# Flipr-Hackathon9.0 / ZapMail
 
 A Web-app to schedule and send Recurring, Daily, Weekly, Monthly, Yearly mails. 
 
