@@ -2,7 +2,7 @@
 
 A Web-app to schedule and send Recurring, Daily, Weekly, Monthly, Yearly mails. 
 
-Live Deployed [here](http://zapmail-flipr-hackathon.herokuapp.com/).
+Live Deployed [here](https://zapmail-flipr-hackathon.herokuapp.com/).
 
 ## Built With
 * [NodeJS](https://nodejs.org/en/docs/) -  evented I/O for the backend

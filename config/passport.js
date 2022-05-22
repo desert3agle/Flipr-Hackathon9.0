@@ -33,7 +33,7 @@ module.exports = function (passport) {
     passport.use(new GoogleStrategy({
         clientID: process.env.GOOGLE_CLIENT_ID,
         clientSecret: process.env.GOOGLE_CLIENT_SECRET,
-        callbackURL: 'https://zapmail-flipr-hackathon.herokuapp.com/auth/google/callback',
+        callbackURL: process.env.CALLBACK_URL,
     },
         async (accessToken, refreshToken, profile, done) => {
             const newUser = {
